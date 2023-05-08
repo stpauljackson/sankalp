@@ -1,0 +1,92 @@
+[  {    "name": "Common Cold",    "i": ["sugar", "caffeine", "alcohol"]
+  },
+  {
+    "name": "Influenza",
+    "i": ["sugar", "wheat", "processed foods"]
+  },
+  {
+    "name": "Pneumonia",
+    "i": ["sugar", "wheat", "processed foods"]
+  },
+  {
+    "name": "Asthma",
+    "i": ["dairy", "eggs", "wheat", "processed foods"]
+  },
+  
+  {
+    "name": "Diabetes",
+    "i": ["sugar", "refined grains", "processed foods"]
+  },
+  {
+    "name": "Obesity",
+    "i": ["sugar", "refined grains", "processed foods", "saturated fats"]
+  },
+  {
+    "name": "Heart Disease",
+    "i": ["sugar", "refined grains", "processed foods", "saturated fats", "trans fats"]
+  },
+  {
+    "name": "Stroke",
+    "i": ["sugar", "refined grains", "processed foods", "saturated fats", "trans fats"]
+  },
+  {
+    "name": "High Blood Pressure",
+    "i": ["sugar", "processed foods", "sodium"]
+  },
+  {
+    "name": "Kidney Disease",
+    "i": ["sugar", "processed foods", "sodium", "phosphorus"]
+  },
+  {
+    "name": "Liver Disease",
+    "i": ["alcohol", "sugar", "refined grains", "processed foods"]
+  },
+  {
+    "name": "Celiac Disease",
+    "i": ["gluten", "wheat", "barley", "rye"]
+  },
+  {
+    "name": "Crohn's Disease",
+    "i": ["dairy", "gluten", "processed foods"]
+  },
+  {
+    "name": "Ulcerative Colitis",
+    "i": ["dairy", "processed foods"]
+  },
+  {
+    "name": "Irritable Bowel Syndrome (IBS)",
+    "i": ["processed foods", "sugar alcohols", "caffeine"]
+  },
+  {
+    "name": "Gout",
+    "i": ["red meat", "organ meats", "seafood", "alcohol"]
+  },
+  {
+    "name": "Rheumatoid Arthritis",
+    "i": ["red meat", "processed foods", "sugar"]
+  },
+  {
+    "name": "Osteoporosis",
+    "i": ["sodium", "processed foods", "caffeine"]
+  },
+  {
+    "name": "Alzheimer's Disease",
+    "i": ["saturated fats", "trans fats", "processed foods"]
+  },
+  {
+    "name": "Depression",
+    "i": ["processed foods", "sugar"]
+  },
+  {
+    "name": "Anxiety",
+    "i": ["caffeine", "processed foods", "sugar"]
+  },
+  {
+    "name": "Bipolar Disorder",
+    "i": ["caffeine", "processed foods", "sugar"]
+  },
+  {
+    "name": "Schizophrenia",
+    "i": ["processed foods", "sugar"]
+  }
+]
